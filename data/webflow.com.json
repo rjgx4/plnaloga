@@ -1,0 +1,547 @@
+[
+  {
+    "url": "https://cdn.prod.website-files.com/5dbfba8e8b3107b9aa912e57/65140f8bb4694a0f7a6250ae_NCR.svg",
+    "alt_text": "NCR",
+    "inferred_name": "NCR"
+  },
+  {
+    "url": "https://cdn.prod.website-files.com/5dbfba8e8b3107b9aa912e57/65d65e7906c88d28c35c461c_mondaycom.svg",
+    "alt_text": "Monda.com",
+    "inferred_name": "Monday.com"
+  },
+  {
+    "url": "https://cdn.prod.website-files.com/5dbfba8e8b3107b9aa912e57/67c9c18e5b1f74703b3fb0ff_spotify.svg",
+    "alt_text": "spotify",
+    "inferred_name": "Spotify"
+  },
+  {
+    "url": "https://cdn.prod.website-files.com/66e88746834b80507cdf7933/66e8a82d52566d454c994fdb_Ted.svg",
+    "alt_text": "",
+    "inferred_name": "TED"
+  },
+  {
+    "url": "https://cdn.prod.website-files.com/66e88746834b80507cdf7933/66e8a82d52566d454c994fba_Dropbox.svg",
+    "alt_text": "",
+    "inferred_name": "Dropbox"
+  },
+  {
+    "url": "https://cdn.prod.website-files.com/5dbfba8e8b3107b9aa912e57/67c9bdf132ffb7dabb6d1f58_orangetheory-logo.svg",
+    "alt_text": "Orangetheory Fitness",
+    "inferred_name": "Orange Theory Fitness"
+  },
+  {
+    "url": "https://cdn.prod.website-files.com/66e88746834b80507cdf7933/66e8a82d52566d454c994fb6_Greenhouse.svg",
+    "alt_text": "",
+    "inferred_name": "Greenhouse"
+  },
+  {
+    "url": "https://cdn.prod.website-files.com/5dbfba8e8b3107b9aa912e57/67c9c18efc1abd93cf92f54f_clear-light.svg",
+    "alt_text": "clear",
+    "inferred_name": "CLEAR"
+  },
+  {
+    "url": "https://cdn.prod.website-files.com/5dbfba8e8b3107b9aa912e57/67c9c18e91b36779e9fbe973_checkout.svg",
+    "alt_text": "checkout",
+    "inferred_name": "Checkout.com"
+  },
+  {
+    "url": "https://cdn.prod.website-files.com/5dbfba8e8b3107b9aa912e57/67c9c18eddd80aca1541e3dd_soundcloud.svg",
+    "alt_text": "soundcloud",
+    "inferred_name": "Soundcloud"
+  },
+  {
+    "url": "https://cdn.prod.website-files.com/5dbfba8e8b3107b9aa912e57/67c9c18e1b058eff5db7bf49_Mizuho.svg",
+    "alt_text": "Mizuho",
+    "inferred_name": "MIZUHO"
+  },
+  {
+    "url": "https://cdn.prod.website-files.com/5dbfba8e8b3107b9aa912e57/65d65e7906c88d28c35c4621_ideo-logo.svg",
+    "alt_text": "Ideo",
+    "inferred_name": "IDEO"
+  },
+  {
+    "url": "https://cdn.prod.website-files.com/5dbfba8e8b3107b9aa912e57/67c9c18e101a808000fcb078_docusign.svg",
+    "alt_text": "docusign",
+    "inferred_name": "Docusign"
+  },
+  {
+    "url": "https://cdn.prod.website-files.com/66e88746834b80507cdf7933/66e8a82d52566d454c994fd1_Mural.svg",
+    "alt_text": "",
+    "inferred_name": "Mural"
+  },
+  {
+    "url": "https://cdn.prod.website-files.com/66e88746834b80507cdf7933/66e8a82e52566d454c995044_Name%3DABM%20Industries%2C%20Mode%3DLight.svg",
+    "alt_text": "",
+    "inferred_name": "ABM"
+  },
+  {
+    "url": "https://cdn.prod.website-files.com/66e88746834b80507cdf7933/66e8a82e52566d454c995028_TheNewYorkTimes.svg",
+    "alt_text": "",
+    "inferred_name": "The New York Times"
+  },
+  {
+    "url": "https://cdn.prod.website-files.com/66e88746834b80507cdf7933/66e8a82c52566d454c994f5e_Upwork.svg",
+    "alt_text": "",
+    "inferred_name": "Upwork"
+  },
+  {
+    "url": "https://cdn.prod.website-files.com/66e88746834b80507cdf7933/66e8a82e52566d454c995054_Decathlon.svg",
+    "alt_text": "",
+    "inferred_name": "Decathlon"
+  },
+  {
+    "url": "https://cdn.prod.website-files.com/5dbfba8e8b3107b9aa912e57/65140f8bb4694a0f7a6250b0_Discord.svg",
+    "alt_text": "Discord",
+    "inferred_name": "Discord"
+  },
+  {
+    "url": "https://cdn.prod.website-files.com/5dbfba8e8b3107b9aa912e57/5f68cd504a4da15cf0360e78_lattice_logo_full_white.svg",
+    "alt_text": "",
+    "inferred_name": "Lattice"
+  },
+  {
+    "url": "https://cdn.prod.website-files.com/5dbfbe5b9bf13e1ebb54e91f/64b0487e5dd3a7f6d68ea6a8_dropbox-sign_logo.svg",
+    "alt_text": "Dropbox Sign",
+    "inferred_name": "Dropbox Sign"
+  },
+  {
+    "url": "https://cdn.prod.website-files.com/5dbfbe5b9bf13e1ebb54e91f/64b0487e5dd3a7f6d68ea6a8_dropbox-sign_logo.svg",
+    "alt_text": "Dropbox Sign",
+    "inferred_name": "Dropbox Sign"
+  },
+  {
+    "url": "https://cdn.prod.website-files.com/5dbfbe5b9bf13e1ebb54e91f/63f675eaab97add856ea7fbd_NCR_BIG.svg",
+    "alt_text": "NCR",
+    "inferred_name": "Ncr"
+  },
+  {
+    "url": "https://cdn.prod.website-files.com/5dbfbe5b9bf13e1ebb54e91f/63f675eaab97add856ea7fbd_NCR_BIG.svg",
+    "alt_text": "NCR",
+    "inferred_name": "Ncr"
+  },
+  {
+    "url": "https://cdn.prod.website-files.com/5dbfbe5b9bf13e1ebb54e91f/67b49e5c1e0889b9a5500e7f_orange-theory_logo.svg",
+    "alt_text": "Orangetheory Fitness",
+    "inferred_name": "Orange Theory Fitness"
+  },
+  {
+    "url": "https://cdn.prod.website-files.com/5dbfbe5b9bf13e1ebb54e91f/67b49e5c1e0889b9a5500e7f_orange-theory_logo.svg",
+    "alt_text": "Orangetheory Fitness",
+    "inferred_name": "Orange Theory Fitness"
+  },
+  {
+    "url": "https://cdn.prod.website-files.com/5dbfbe5b9bf13e1ebb54e91f/663a7480f8fc72a71c883fd1_vanta-logo.svg",
+    "alt_text": "Vanta",
+    "inferred_name": "Vanta"
+  },
+  {
+    "url": "https://cdn.prod.website-files.com/5dbfbe5b9bf13e1ebb54e91f/663a7480f8fc72a71c883fd1_vanta-logo.svg",
+    "alt_text": "Vanta",
+    "inferred_name": "Vanta"
+  },
+  {
+    "url": "https://cdn.prod.website-files.com/5dbfbe5b9bf13e1ebb54e91f/67c9a94502f76fd53c79826e_walker-dunlop_logo.svg",
+    "alt_text": "Walker & Dunlop",
+    "inferred_name": "Walker & Dunlop"
+  },
+  {
+    "url": "https://cdn.prod.website-files.com/5dbfbe5b9bf13e1ebb54e91f/67c9a94502f76fd53c79826e_walker-dunlop_logo.svg",
+    "alt_text": "Walker & Dunlop",
+    "inferred_name": "Walker & Dunlop"
+  },
+  {
+    "url": "https://cdn.prod.website-files.com/5dbfbe5b9bf13e1ebb54e91f/5e46f49bf2a256618372921b_logo-black.svg",
+    "alt_text": "Lattice",
+    "inferred_name": "Lattice"
+  },
+  {
+    "url": "https://cdn.prod.website-files.com/5dbfbe5b9bf13e1ebb54e91f/5e46f49bf2a256618372921b_logo-black.svg",
+    "alt_text": "Lattice",
+    "inferred_name": "Lattice"
+  },
+  {
+    "url": "https://cdn.prod.website-files.com/5dbfbe5b9bf13e1ebb54e91f/673bbf3827d2a1529df72a47_Healius-logo.svg",
+    "alt_text": "Healius",
+    "inferred_name": "Healius"
+  },
+  {
+    "url": "https://cdn.prod.website-files.com/5dbfbe5b9bf13e1ebb54e91f/673bbf3827d2a1529df72a47_Healius-logo.svg",
+    "alt_text": "Healius",
+    "inferred_name": "Healius"
+  },
+  {
+    "url": "https://cdn.prod.website-files.com/5dbfbe5b9bf13e1ebb54e91f/66143f30970268e6aeeb3073_smaller-earth-group-logo.svg",
+    "alt_text": "Smaller Earth Group",
+    "inferred_name": "Smaller earth group"
+  },
+  {
+    "url": "https://cdn.prod.website-files.com/5dbfbe5b9bf13e1ebb54e91f/66143f30970268e6aeeb3073_smaller-earth-group-logo.svg",
+    "alt_text": "Smaller Earth Group",
+    "inferred_name": "Smaller earth group"
+  },
+  {
+    "url": "https://cdn.prod.website-files.com/5dbfbe5b9bf13e1ebb54e91f/67bf329b24e649b34b7a9e8f_docusign-logo.svg",
+    "alt_text": "Docusign",
+    "inferred_name": "Docusign"
+  },
+  {
+    "url": "https://cdn.prod.website-files.com/5dbfbe5b9bf13e1ebb54e91f/67bf329b24e649b34b7a9e8f_docusign-logo.svg",
+    "alt_text": "Docusign",
+    "inferred_name": "Docusign"
+  },
+  {
+    "url": "https://cdn.prod.website-files.com/5dbfbe5b9bf13e1ebb54e91f/64b0487e5dd3a7f6d68ea6a8_dropbox-sign_logo.svg",
+    "alt_text": "Dropbox Sign",
+    "inferred_name": "Dropbox Sign"
+  },
+  {
+    "url": "https://cdn.prod.website-files.com/5dbfbe5b9bf13e1ebb54e91f/64b0487e5dd3a7f6d68ea6a8_dropbox-sign_logo.svg",
+    "alt_text": "Dropbox Sign",
+    "inferred_name": "Dropbox Sign"
+  },
+  {
+    "url": "https://cdn.prod.website-files.com/5dbfbe5b9bf13e1ebb54e91f/63f675eaab97add856ea7fbd_NCR_BIG.svg",
+    "alt_text": "NCR",
+    "inferred_name": "Ncr"
+  },
+  {
+    "url": "https://cdn.prod.website-files.com/5dbfbe5b9bf13e1ebb54e91f/63f675eaab97add856ea7fbd_NCR_BIG.svg",
+    "alt_text": "NCR",
+    "inferred_name": "Ncr"
+  },
+  {
+    "url": "https://cdn.prod.website-files.com/5dbfbe5b9bf13e1ebb54e91f/67b49e5c1e0889b9a5500e7f_orange-theory_logo.svg",
+    "alt_text": "Orangetheory Fitness",
+    "inferred_name": "Orange Theory Fitness"
+  },
+  {
+    "url": "https://cdn.prod.website-files.com/5dbfbe5b9bf13e1ebb54e91f/67b49e5c1e0889b9a5500e7f_orange-theory_logo.svg",
+    "alt_text": "Orangetheory Fitness",
+    "inferred_name": "Orange Theory Fitness"
+  },
+  {
+    "url": "https://cdn.prod.website-files.com/5dbfbe5b9bf13e1ebb54e91f/663a7480f8fc72a71c883fd1_vanta-logo.svg",
+    "alt_text": "Vanta",
+    "inferred_name": "Vanta"
+  },
+  {
+    "url": "https://cdn.prod.website-files.com/5dbfbe5b9bf13e1ebb54e91f/663a7480f8fc72a71c883fd1_vanta-logo.svg",
+    "alt_text": "Vanta",
+    "inferred_name": "Vanta"
+  },
+  {
+    "url": "https://cdn.prod.website-files.com/5dbfbe5b9bf13e1ebb54e91f/67c9a94502f76fd53c79826e_walker-dunlop_logo.svg",
+    "alt_text": "Walker & Dunlop",
+    "inferred_name": "Walker & Dunlop"
+  },
+  {
+    "url": "https://cdn.prod.website-files.com/5dbfbe5b9bf13e1ebb54e91f/67c9a94502f76fd53c79826e_walker-dunlop_logo.svg",
+    "alt_text": "Walker & Dunlop",
+    "inferred_name": "Walker & Dunlop"
+  },
+  {
+    "url": "https://cdn.prod.website-files.com/5dbfbe5b9bf13e1ebb54e91f/5e46f49bf2a256618372921b_logo-black.svg",
+    "alt_text": "Lattice",
+    "inferred_name": "Lattice"
+  },
+  {
+    "url": "https://cdn.prod.website-files.com/5dbfbe5b9bf13e1ebb54e91f/5e46f49bf2a256618372921b_logo-black.svg",
+    "alt_text": "Lattice",
+    "inferred_name": "Lattice"
+  },
+  {
+    "url": "https://cdn.prod.website-files.com/5dbfbe5b9bf13e1ebb54e91f/673bbf3827d2a1529df72a47_Healius-logo.svg",
+    "alt_text": "Healius",
+    "inferred_name": "Healius"
+  },
+  {
+    "url": "https://cdn.prod.website-files.com/5dbfbe5b9bf13e1ebb54e91f/673bbf3827d2a1529df72a47_Healius-logo.svg",
+    "alt_text": "Healius",
+    "inferred_name": "Healius"
+  },
+  {
+    "url": "https://cdn.prod.website-files.com/5dbfbe5b9bf13e1ebb54e91f/66143f30970268e6aeeb3073_smaller-earth-group-logo.svg",
+    "alt_text": "Smaller Earth Group",
+    "inferred_name": "Smaller earth group"
+  },
+  {
+    "url": "https://cdn.prod.website-files.com/5dbfbe5b9bf13e1ebb54e91f/66143f30970268e6aeeb3073_smaller-earth-group-logo.svg",
+    "alt_text": "Smaller Earth Group",
+    "inferred_name": "Smaller earth group"
+  },
+  {
+    "url": "https://cdn.prod.website-files.com/5dbfbe5b9bf13e1ebb54e91f/67bf329b24e649b34b7a9e8f_docusign-logo.svg",
+    "alt_text": "Docusign",
+    "inferred_name": "Docusign"
+  },
+  {
+    "url": "https://cdn.prod.website-files.com/5dbfbe5b9bf13e1ebb54e91f/67bf329b24e649b34b7a9e8f_docusign-logo.svg",
+    "alt_text": "Docusign",
+    "inferred_name": "Docusign"
+  },
+  {
+    "url": "https://cdn.prod.website-files.com/5dbfbe5b9bf13e1ebb54e91f/67bf329b24e649b34b7a9e8f_docusign-logo.svg",
+    "alt_text": "Docusign",
+    "inferred_name": "Docusign"
+  },
+  {
+    "url": "https://cdn.prod.website-files.com/5dbfbe5b9bf13e1ebb54e91f/67c9a94502f76fd53c79826e_walker-dunlop_logo.svg",
+    "alt_text": "Walker & Dunlop",
+    "inferred_name": "Walker & Dunlop"
+  },
+  {
+    "url": "https://cdn.prod.website-files.com/5dbfbe5b9bf13e1ebb54e91f/67b49e5c1e0889b9a5500e7f_orange-theory_logo.svg",
+    "alt_text": "Orangetheory Fitness",
+    "inferred_name": "Orange Theory Fitness"
+  },
+  {
+    "url": "https://cdn.prod.website-files.com/5dbfbe5b9bf13e1ebb54e91f/67b65058b1afb2c59a7b97ca_autotrader-logo.svg",
+    "alt_text": "AutoTrader",
+    "inferred_name": "AutoTrader.ca"
+  },
+  {
+    "url": "https://cdn.prod.website-files.com/5dbfbe5b9bf13e1ebb54e91f/677ee3addd74a452c0c68163_poetic-logo.png",
+    "alt_text": "Poetic",
+    "inferred_name": "Poetic"
+  },
+  {
+    "url": "https://cdn.prod.website-files.com/5dbfbe5b9bf13e1ebb54e91f/673bbf3827d2a1529df72a47_Healius-logo.svg",
+    "alt_text": "Healius",
+    "inferred_name": "Healius"
+  },
+  {
+    "url": "https://cdn.prod.website-files.com/5dbfbe5b9bf13e1ebb54e91f/673632e071921368236edafe_lc.svg",
+    "alt_text": "L&C Mortgages",
+    "inferred_name": "L&C Mortgages"
+  },
+  {
+    "url": "https://cdn.prod.website-files.com/5dbfbe5b9bf13e1ebb54e91f/66a7d1ea7126c5b8d5c3ba03_impact-logo.svg",
+    "alt_text": "Impact Dog Crates",
+    "inferred_name": "IMPACT"
+  },
+  {
+    "url": "https://cdn.prod.website-files.com/5dbfbe5b9bf13e1ebb54e91f/66a7d1d0a868adedf958e0fb_laseraway-logo.svg",
+    "alt_text": "LaserAway",
+    "inferred_name": "Laser Away"
+  },
+  {
+    "url": "https://cdn.prod.website-files.com/5dbfbe5b9bf13e1ebb54e91f/66900940af1ccb283225a1ea_industrious.svg",
+    "alt_text": "Industrious",
+    "inferred_name": "Industrious"
+  },
+  {
+    "url": "https://cdn.prod.website-files.com/5dbfbe5b9bf13e1ebb54e91f/66900900265024fbc5fa1c53_code42.svg",
+    "alt_text": "Code42",
+    "inferred_name": "Adobe"
+  },
+  {
+    "url": "https://cdn.prod.website-files.com/5dbfbe5b9bf13e1ebb54e91f/5e46f49bf2a256618372921b_logo-black.svg",
+    "alt_text": "Lattice",
+    "inferred_name": "Lattice"
+  },
+  {
+    "url": "https://cdn.prod.website-files.com/5dbfbe5b9bf13e1ebb54e91f/6682f7b1297b9ff57ba33315_spin-master.svg",
+    "alt_text": "Spin Master",
+    "inferred_name": "SPIN MASTER"
+  },
+  {
+    "url": "https://cdn.prod.website-files.com/5dbfbe5b9bf13e1ebb54e91f/663a7480f8fc72a71c883fd1_vanta-logo.svg",
+    "alt_text": "Vanta",
+    "inferred_name": "Vanta"
+  },
+  {
+    "url": "https://cdn.prod.website-files.com/5dbfbe5b9bf13e1ebb54e91f/66143f30970268e6aeeb3073_smaller-earth-group-logo.svg",
+    "alt_text": "Smaller Earth Group",
+    "inferred_name": "Smaller earth group"
+  },
+  {
+    "url": "https://cdn.prod.website-files.com/5dbfbe5b9bf13e1ebb54e91f/65b7fac17372e6c4cd5e6707_Jasper%20logo.svg",
+    "alt_text": "Jasper",
+    "inferred_name": "Jasper"
+  },
+  {
+    "url": "https://cdn.prod.website-files.com/5dbfbe5b9bf13e1ebb54e91f/6570f59f53b63065cbf76fda_logo-kajabi.svg",
+    "alt_text": "Kajabi",
+    "inferred_name": "Kajabi"
+  },
+  {
+    "url": "https://cdn.prod.website-files.com/5dbfbe5b9bf13e1ebb54e91f/6543ac945daec299833d3276_Oyster-logo.svg",
+    "alt_text": "Oyster",
+    "inferred_name": "Oyster"
+  },
+  {
+    "url": "https://cdn.prod.website-files.com/5dbfbe5b9bf13e1ebb54e91f/651757416aa70e052c8fe8b6_Fivetran.svg",
+    "alt_text": "Fivetran",
+    "inferred_name": "Fivetran"
+  },
+  {
+    "url": "https://cdn.prod.website-files.com/5dbfbe5b9bf13e1ebb54e91f/64d276ae9f035b827a772121_ponce%20bank.svg",
+    "alt_text": "Ponce Bank",
+    "inferred_name": "Ponce Bank"
+  },
+  {
+    "url": "https://cdn.prod.website-files.com/5dbfbe5b9bf13e1ebb54e91f/64b0487e5dd3a7f6d68ea6a8_dropbox-sign_logo.svg",
+    "alt_text": "Dropbox Sign",
+    "inferred_name": "Dropbox Sign"
+  },
+  {
+    "url": "https://cdn.prod.website-files.com/5dbfbe5b9bf13e1ebb54e91f/6491b4252dbd96fc1268b2b4_dormakaba-logo.svg",
+    "alt_text": "dormakaba",
+    "inferred_name": "Dormakaba"
+  },
+  {
+    "url": "https://cdn.prod.website-files.com/5dbfbe5b9bf13e1ebb54e91f/64766d3cc6c2c4646146b9da_grubhub-logo.svg",
+    "alt_text": "Grubhub + Wondersauce",
+    "inferred_name": "GrubHub"
+  },
+  {
+    "url": "https://cdn.prod.website-files.com/5dbfbe5b9bf13e1ebb54e91f/645029eef30b097100de566c_nursa-logo.svg",
+    "alt_text": "Nursa",
+    "inferred_name": "NURSA"
+  },
+  {
+    "url": "https://cdn.prod.website-files.com/5dbfbe5b9bf13e1ebb54e91f/63f675eaab97add856ea7fbd_NCR_BIG.svg",
+    "alt_text": "NCR",
+    "inferred_name": "Ncr"
+  },
+  {
+    "url": "https://cdn.prod.website-files.com/5dbfbe5b9bf13e1ebb54e91f/634ec5ba8793b96edf08a3f1_wave.svg",
+    "alt_text": "Wave",
+    "inferred_name": "Wave"
+  },
+  {
+    "url": "https://cdn.prod.website-files.com/5dbfbe5b9bf13e1ebb54e91f/6462aa0284ba5c6675ed7019_ramp-logo.svg",
+    "alt_text": "Ramp",
+    "inferred_name": "Ramp"
+  },
+  {
+    "url": "https://cdn.prod.website-files.com/5dbfbe5b9bf13e1ebb54e91f/60ec732c0c083908b8e36cb6_smugmug-logo.svg",
+    "alt_text": "SmugMug",
+    "inferred_name": "SmugMug"
+  },
+  {
+    "url": "https://cdn.prod.website-files.com/5dbfbe5b9bf13e1ebb54e91f/60d3927cf83ff959847bb5bd_logo.png",
+    "alt_text": "Virta Health",
+    "inferred_name": "VIRTA"
+  },
+  {
+    "url": "https://cdn.prod.website-files.com/5dbfbe5b9bf13e1ebb54e91f/609b1438eb6206323a26e8ea_attentive-logo.svg",
+    "alt_text": "Attentive",
+    "inferred_name": "Attentive"
+  },
+  {
+    "url": "https://cdn.prod.website-files.com/5dbfbe5b9bf13e1ebb54e91f/60e61188f839d37c77a0d47c_logo%202.png",
+    "alt_text": "SunWest Credit Union",
+    "inferred_name": "Unknown"
+  },
+  {
+    "url": "https://cdn.prod.website-files.com/5dbfbe5b9bf13e1ebb54e91f/606c7f75eee2b27e1d7d7928_logo.svg",
+    "alt_text": "Pacific Funds",
+    "inferred_name": "Pacific Funds"
+  },
+  {
+    "url": "https://cdn.prod.website-files.com/5dbfbe5b9bf13e1ebb54e91f/601835ef2aab73c27ef2c413_AngelList%20Venture.svg",
+    "alt_text": "AngelList Venture",
+    "inferred_name": "Angellist Venture"
+  },
+  {
+    "url": "https://cdn.prod.website-files.com/5dbfbe5b9bf13e1ebb54e91f/63939f33c648830277fe9128_mural-logo-2022.svg",
+    "alt_text": "Mural",
+    "inferred_name": "Mural"
+  },
+  {
+    "url": "https://cdn.prod.website-files.com/5dbfbe5b9bf13e1ebb54e91f/60da7ec93e4a0a86545d0af3_freshly-logo.svg",
+    "alt_text": "Freshly",
+    "inferred_name": "Freshly"
+  },
+  {
+    "url": "https://cdn.prod.website-files.com/5dbfbe5b9bf13e1ebb54e91f/5e976754b6518d1865f3be5e_rakuten-logo.svg",
+    "alt_text": "Rakuten SL (now ShipNetwork)",
+    "inferred_name": "Rakuten"
+  },
+  {
+    "url": "https://cdn.prod.website-files.com/5dbfbe5b9bf13e1ebb54e91f/5de81f8a0fe53fec5a361726_getaround.svg",
+    "alt_text": "Getaround",
+    "inferred_name": "Getaround"
+  },
+  {
+    "url": "https://cdn.prod.website-files.com/5dbfbe5b9bf13e1ebb54e91f/60de119cea05456337cc60d4_petal-black.svg",
+    "alt_text": "Petal",
+    "inferred_name": "Petal"
+  },
+  {
+    "url": "https://cdn.prod.website-files.com/5dbfbe5b9bf13e1ebb54e91f/67daf196fcc0e2264a28b529_off%2Bbrand-logo.svg",
+    "alt_text": "OFF+BRAND.",
+    "inferred_name": "OFF+BRAND"
+  },
+  {
+    "url": "https://cdn.prod.website-files.com/5dbfbe5b9bf13e1ebb54e91f/60524e07591b9057c241c060_refokus-logo-black.svg",
+    "alt_text": "Refokus",
+    "inferred_name": "Refokus"
+  },
+  {
+    "url": "https://cdn.prod.website-files.com/5dbfbe5b9bf13e1ebb54e91f/656f78a6180345b41048f996_outliant-logo.svg",
+    "alt_text": "Outliant",
+    "inferred_name": "Outliant"
+  },
+  {
+    "url": "https://cdn.prod.website-files.com/5dbfbe5b9bf13e1ebb54e91f/6564e439be6817141e4089c7_DIKO-logo.svg",
+    "alt_text": "DIKO",
+    "inferred_name": "Diko"
+  },
+  {
+    "url": "https://cdn.prod.website-files.com/5dbfbe5b9bf13e1ebb54e91f/64ed5245cf599874aac4ff33_kinetic-studio-logo.svg",
+    "alt_text": "Kinetic Studio",
+    "inferred_name": "Kinetic"
+  },
+  {
+    "url": "https://cdn.prod.website-files.com/5dbfbe5b9bf13e1ebb54e91f/64f775975c396fc69c4510f2_HireClix%20logo.svg",
+    "alt_text": "HireClix",
+    "inferred_name": "Hireclix"
+  },
+  {
+    "url": "https://cdn.prod.website-files.com/5dbfbe5b9bf13e1ebb54e91f/64ed528daf27dd1171eff6eb_hunt-gather-logo.svg",
+    "alt_text": "Hunt, Gather",
+    "inferred_name": "Hunt, Gather"
+  },
+  {
+    "url": "https://cdn.prod.website-files.com/5dbfbe5b9bf13e1ebb54e91f/64ed4adcb9ed4fe8adc7cb5e_the-digital-panda_logo-white.svg",
+    "alt_text": "The Digital Panda",
+    "inferred_name": "The Digital Panda"
+  },
+  {
+    "url": "https://cdn.prod.website-files.com/5dbfbe5b9bf13e1ebb54e91f/64e7301dd9e445ed830a2c54_funsize-logo-dark.svg",
+    "alt_text": "Funsize",
+    "inferred_name": "Funsize"
+  },
+  {
+    "url": "https://cdn.prod.website-files.com/5dbfbe5b9bf13e1ebb54e91f/649314080a70d99b8ca6bc14_social-driver_logo.svg",
+    "alt_text": "Social Driver",
+    "inferred_name": "SOCIALDRIVER"
+  },
+  {
+    "url": "https://cdn.prod.website-files.com/5dbfbe5b9bf13e1ebb54e91f/634ec5476cfd7fc4f36e65e9_responsival.svg",
+    "alt_text": "Responsival",
+    "inferred_name": "Responsial"
+  },
+  {
+    "url": "https://cdn.prod.website-files.com/5dbfbe5b9bf13e1ebb54e91f/609386613bc3546486669019_8020.svg",
+    "alt_text": "8020",
+    "inferred_name": "Unknown"
+  },
+  {
+    "url": "https://cdn.prod.website-files.com/5dbfbe5b9bf13e1ebb54e91f/6050d76e495658200813245f_barrel-logo.png",
+    "alt_text": "Barrel",
+    "inferred_name": "Unknown"
+  },
+  {
+    "url": "https://cdn.prod.website-files.com/5dbfbe5b9bf13e1ebb54e91f/5ed6a1e6c96c72067d0664b9_logo-ramotion.svg",
+    "alt_text": "Ramotion",
+    "inferred_name": "Ramotion"
+  },
+  {
+    "url": "https://cdn.prod.website-files.com/5dbfbe5b9bf13e1ebb54e91f/5dcefa32f71d80d58272f2fc_heco.svg",
+    "alt_text": "Heco",
+    "inferred_name": "HECO"
+  }
+]
